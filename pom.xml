@@ -88,5 +88,10 @@
       <name>Webtools Repository - Snapshots</name>
       <url>https://repo.eclipse.org/content/repositories/webtools-snapshots/</url>
     </repository>
+    <repository>
+      <id>reddeer-site</id>
+      <url>http://download.jboss.org/jbosstools/neon/stable/updates/reddeer/1.2.1/</url>
+      <layout>p2</layout>
+    </repository>
   </repositories>
 </project>
